@@ -1,3 +1,6 @@
 # Internship_28
-Worked on Machine Learning,Statistics and Python Worksheets
-Worked on Web Scrapping Assignment I
+Machine Learning,Statistics and Python Worksheets
+
+Web Scrapping Assignment I
+
+Web Scrapping Assignment II
