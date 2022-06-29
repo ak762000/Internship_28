@@ -1,0 +1,11 @@
+os,display,processor,memory,graphics_processor
+Windows 11 Home,"17″ (3840 x 2160) screen, 20Hz refresh rate",12th Gen Intel Core i9-12900HK processor with 5 GHz clock speed,16 GB DDR5 RAM & 2 TB SSD,NVIDIA GeForce RTX 3080Ti Graphics card
+Windows 11 Home,"15.6″ (2560 x 1440) screen, 240Hz refresh rate",12th Gen Intel Core i9-12900H 14 core processor with 2.5 GHz clock speed,32 GB DDR5 RAM & 2 TB SSD,8 GB DDR6 NVIDIA GeForce RTX 3070 Ti Graphics card
+Windows 10,"15.6″ (1920 x 1080) screen, 144 Hz refresh rate",AMD Ryzen 9 Octa Core 8 core processor with 2.4 GHz clock speed,16 GB DDR4 RAM & 1 TB HDD with 256 GB SSD,NVIDIA GeForce RTX 3070 Graphics card
+Windows 10,"15.6″ (1920 x 1080) screen, 144 Hz refresh rate",Intel Core i7 11th Gen - 11375H processor,16 GB DDR4 RAM & 1 TB SSD,NVIDIA GeForce RTX 3060 Graphics card
+Windows 10,"15.6″ (2560 x 1440) screen, 165 Hz refresh rate",AMD Ryzen 9 Octa Core - 5900HX 8 core processor with 3.3 GHz clock speed,32 GB DDR4 RAM & 2 TB SSD,NVIDIA GeForce RTX 3080 Graphics card
+Windows 10 Home,15.6″ (1920 x 1080) screen,AMD Ryzen™ 9 5900HX processor with 3.3 GHz clock speed,16 GB DDR4 RAM & 1 TB SSD,NVIDIA® GeForce RTX™ 3070 Graphics card
+Windows 10 Home,14″ (1920 x 1080) screen,AMD 3rd Gen Ryzen 9 Quad Core core processor with 3.3 GHz clock speed,16 GB DDR4 RAM & 1 TB SSD,NVIDIA GeForce RTX 2060 Graphics card
+Windows 11 Home,"16.1″ (1920 x 1080) screen, 144 Hz refresh rate",12th Gen Intel Core i7-12700H 14 core processor with 4.7 GHz clock speed,16 GB DDR4 RAM & 1 TB SSD,6 GB GDDR6 NVIDIA GeForce RTX 3060 Graphics card
+Windows 10,"15.6″ (3840 x 1100) screen, 60 Hz refresh rate",Intel Core i7 10th Gen 10875H processor,4 GB DDR4 RAM & 512 GB SSD,NVIDIA GeForce RTX 2070 Max-Q Graphics card
+Windows 10 Home,15.6″ (1920 x 1080) screen,AMD Ryzen™ 5-5500U hexa-core processor,8 GB DDR4 RAM & 512 GB SSD,NVIDIA® GeForce® GTX 1650 Graphics card
